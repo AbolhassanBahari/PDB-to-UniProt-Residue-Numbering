@@ -51,6 +51,8 @@ Run the script as follows:
 Script Parameters:
 
 ```pdb_file: The path to the input PDB file.```
+
+
 ```uniprot_fasta_file: The path to the FASTA file containing the UniProt sequence.```
 
 # Notes:
