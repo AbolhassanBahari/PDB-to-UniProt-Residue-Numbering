@@ -17,7 +17,7 @@ Biopython library
 
 You can install the required dependencies using pip:
 
-pip install biopython
+'''pip install biopython'''
 
 # How It Works:
 
@@ -46,11 +46,11 @@ Ensure you have Python and the required libraries installed (Biopython).
 Save the script to a Python file (e.g., convert_pdb_to_uniprot.py).
 
 Run the script as follows:
-python convert_pdb_to_uniprot.py
+'''python convert_pdb_to_uniprot.py'''
 
 Script Parameters:
-pdb_file: The path to the input PDB file.
-uniprot_fasta_file: The path to the FASTA file containing the UniProt sequence.
+'''pdb_file: The path to the input PDB file.
+uniprot_fasta_file: The path to the FASTA file containing the UniProt sequence.'''
 
 # Notes:
 
